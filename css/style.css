@@ -1,0 +1,105 @@
+body{
+	
+
+position: relative;
+width: 1635px;
+height: 3752px;
+
+background: #FFFFFF;
+
+}
+
+h1{
+	position: absolute;
+width: 595px;
+height: 124px;
+left: 494px;
+top: 22px;
+
+font-family: Poiret One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: normal;
+text-align: center;
+
+color: #000000;
+}
+h2{
+	position: absolute;
+width: 1509px;
+height: 1101px;
+left: 71px;
+top: 237px;
+
+font-family: Poiret One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: normal;
+text-align: center;
+
+color: #000000;
+
+
+}
+h3{
+	position: absolute;
+width: 1511px;
+height: 372px;
+left: calc(50% - 1511px/2 - 8px);
+top: calc(50% - 372px/2 + 186px);
+
+font-family: Poiret One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: normal;
+text-align: center;
+
+color: #000000;
+
+
+}
+ol{
+	position: absolute;
+width: 1511px;
+height: 1055px;
+left: 69px;
+top: 2236px;
+
+font-family: Poiret One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: normal;
+
+color: #000000;
+}
+#rectangle{
+
+position: absolute;
+width: 1635px;
+height: 6px;
+left: 0px;
+top: 213px;
+
+background: #000000;
+}
+.dexter{
+
+position: absolute;
+width: 1509px;
+height: 1001px;
+left: 71px;
+top: 823px;
+
+}
+.dexter1{
+	position: absolute;
+width: 1522px;
+height: 951px;
+left: 57px;
+top: 2688px;
+
+}
